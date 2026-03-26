@@ -1,4 +1,4 @@
-#📄 Chat with Your Documents — RAG App (Chroma + Groq + Streamlit)
+# 📄 Chat with Your Documents — RAG App (Chroma + Groq + Streamlit)
 
 A Retrieval-Augmented Generation (RAG) web application that allows users to upload documents and chat with them using an LLM.
 
